@@ -3,3 +3,11 @@
     padding: 0;
     box-sizing: border-box;
 }
+.futer{
+    width: 400px;
+    height: 400px;
+    background-color: chartreuse;
+    color: white;
+    text-align: center;
+
+}
